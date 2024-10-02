@@ -5,7 +5,8 @@
 // @author       Roberson Arruda - editado por Lucas Monteiro
 // @match		  http://*.seduc.mt.gov.br/ged/hwmgedhistorico.aspx*
 // @match		  https://*.seduc.mt.gov.br/ged/hwmgedhistorico.aspx*
-
+// @updateURL    https://github.com/lksoumon/extrairDPsEEMOP/raw/refs/heads/main/extrairDPSeemop.user.js
+// @downloadURL   https://github.com/lksoumon/extrairDPsEEMOP/raw/refs/heads/main/extrairDPSeemop.user.js
 // ==/UserScript==
 
 
